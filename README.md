@@ -12,3 +12,6 @@ MYSQL Default Database Password : dcme030
 
 MYSQL Database Name : collegedb
 
+For Any Queries May Contact : dcme030@gmail.com 
+
+Live Website http://way2predict.info/
